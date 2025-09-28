@@ -1,0 +1,52 @@
+
+h1	{
+	color: rgb(16, 151, 196);
+	font-family: arial;
+	font-size: 100px;
+	text-align: center;
+}
+body{
+	background-color: aliceblue;
+	color: rgb(25, 82, 112);
+	font-family: arial;
+}
+p {
+	color: rgb(25, 87, 112);
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+}
+h2{
+	text-indent: 20px;
+	font-size: 40px;
+}
+ul{
+	font-size: 25px;
+	line-height: 2;
+}
+p.desc{
+	font-size: 20px;
+	line-height: 1;
+	text-align: left;
+}
+table{
+	table-layout: fixed;
+	width: 100%;
+}
+.pic{
+	opacity: 100%;
+}
+.pic:hover{
+	opacity: 50%;
+}
+.bottom{
+	font-size: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: rgba(167, 215, 231, 0.266);
+	a{
+		padding-left: 8.25%;
+		padding-right: 8.25%;
+		color: rgb(51, 177, 245);
+	}
+}
